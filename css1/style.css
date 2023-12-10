@@ -1,0 +1,58 @@
+
+
+/* REG */
+body.registr_body{
+  /* #5e5c5c */
+  /* #7f89b5 */
+  /*background: #040405;*/
+}
+
+.formCs{
+    -webkit-box-shadow: 17px 20px 5px -5px rgba(34, 60, 80, 0.6);
+    -moz-box-shadow: 17px 20px 5px -5px rgba(34, 60, 80, 0.6);
+    box-shadow: 17px 20px 5px -5px rgba(34, 60, 80, 0.6);
+    border-radius: 15px;
+    margin-top: 20px;
+    background: silver;
+}
+
+p.podv{
+  margin-left: 80px;
+}
+
+.fa-user::before{
+    /*margin-top: 5px;*/
+  margin-left: 80px;
+  font-size: 6rem;
+}
+
+.fa-clone::before{
+  margin-left: 80px;
+  font-size: 6rem;
+}
+
+#block {
+        display: none;
+    }
+
+
+    div.autBod {
+      margin-left: -1.5rem;
+      font-size: 6rem;
+    }
+    p.podv_auth{
+      margin-left: 50px;
+    }
+
+
+    /* лого постов */
+
+    div.icon {
+      margin-left: 12rem;
+    }
+
+div.zag {
+  margin-left: 14rem;
+}
+
+
